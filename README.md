@@ -1,14 +1,11 @@
 ### Hello there! 👋
+My name is Carlos Robles, a tech professional with over 16 years of experience. Having held roles such as Software Engineer, Data Professional, Solutions Architect, and Consultant. Currently, he serves as a Principal Product Manager at Microsoft, where he is responsible for shaping the local development experience for Azure SQL Database, driving innovation, and enhancing the tools developers rely on.
 
-Carlos Robles is a Senior Program Manager at Microsoft, a former Microsoft Data Platform MVP and Amazon Web Services employee, but more than anything a technology lover.
+With a rich history that includes working at AWS and earning the prestigious Microsoft MVP title, he brings a unique perspective to designing and delivering end-to-end architectures across various platforms. His expertise also extends to data management, having worked on projects utilizing Azure SQL, Oracle, PostgreSQL, DynamoDB, and MongoDB.
 
-With over twelve years of experience working in the world of IT.  His experience goes from different roles as Software Developer, DBA / Manager, and Consultant. Working as a Solutions Architect for the past five years; in large-scale environments in various industries such as healthcare, insurance, retail, food, and energy.
+His technical prowess extends to a wide array of programming languages and frameworks, including .NET, JavaScript (Node.js, TypeScript, React, Next.js), and Python. Whether it's developing software, implementing Infrastructure as Code (IaC) with ARM, Bicep, Terraform, CloudFormation, or Pulumi, or driving DevOps practices across cloud platforms, he brings unparalleled versatility and innovation to every project.
 
-International speaker, author, and mentor, If you don’t find him chatting with his friends about geek stuff, he will likely be having a great time with his family.
+An international speaker, author, and mentor, he is passionate about sharing knowledge, empowering developers, and advancing the field of technology. In his free time, he enjoys playing video games, discussing geek culture with friends, and spending quality time with his family. 
 
-- 🌱 I’m currently learning more about different DevOps practices, like GitOps
-- 🤝 I’m looking to collaborate with anybody interested on a DevOps, Cloud or development projects
-- 💬 Ask me about anything about Microsoft Azure, cloud computing in general and DevOps
-- 📫 How to reach me: By email [roblescarlos@microsoft.com](mailto:roblescarlos@microsoft.com) or twitter [@crobles_10](https://twitter.com/crobles_10)
-
-[![N|Solid](http://dbamastery.com/wp-content/uploads/2018/08/if_twitter_circle_color_107170.png)](https://twitter.com/dbamastery) [![N|Solid](http://dbamastery.com/wp-content/uploads/2018/08/if_github_circle_black_107161.png)](https://github.com/dbamaster) [![N|Solid](http://dbamastery.com/wp-content/uploads/2018/08/if_linkedin_circle_color_107178.png)](https://www.linkedin.com/in/croblesdba/) [![N|Solid](http://dbamastery.com/wp-content/uploads/2018/08/if_browser_1055104.png)](http://dbamastery.com/)
+- 💬 Ask me about anything about software engineering, AI, cloud computing in general and DevOps
+- 📫 How to reach me: By email [contact@croblesm.com](mailto:contact@croblesm.com) or LinkedIn [@croblems](https://linkedin.com/in/croblesm)
