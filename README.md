@@ -8,4 +8,4 @@ His technical prowess extends to a wide array of programming languages and frame
 An international speaker, author, and mentor, he is passionate about sharing knowledge, empowering developers, and advancing the field of technology. In his free time, he enjoys playing video games, discussing geek culture with friends, and spending quality time with his family. 
 
 - 💬 Ask me about anything about software engineering, AI, cloud computing in general and DevOps
-- 📫 How to reach me: By email [contact@croblesm.com](mailto:contact@croblesm.com) or LinkedIn [@croblems](https://linkedin.com/in/croblesm)
+- 📫 How to reach me: By email [contact@croblesm.com](mailto:contact@croblesm.com) or via direct message on [LinkedIn](https://linkedin.com/in/croblesm)
