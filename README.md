@@ -1,16 +1,16 @@
 ### Hi, I'm Carlos 👋
 
-A software engineer who went from building custom apps for small businesses in Guatemala to working with enterprise customers at AWS and building cloud and AI-native developer experiences and tools at Microsoft and now Supabase.
+Software engineer from Guatemala 🇬🇹 who went on to AWS and Microsoft, and now builds AI-native developer experiences at Supabase, all from Colorado 🏔️.
 
 Today I'm the Product Manager for Interfaces on the AI team at ⚡ [Supabase](https://supabase.com), where I own the surfaces every developer uses to build on Supabase:
 
 - **SDKs** for JavaScript, Python, Flutter, Swift, Kotlin, and C#
 - **CLI** for local development, database migrations, type generation, and deploys
 - **Management API**, the REST API platforms and enterprises use to create and manage Supabase projects programmatically
-- **Docs**, the guides and references developers, and their agents, learn Supabase from
+- **Docs**, the guides and references coding agents and developers learn Supabase from
 - **Supabase Studio**, the dashboard developers use in the cloud and locally
 
-More and more, the developer on the other side is an AI agent: Claude Code, Codex, Cursor, and GitHub Copilot now build on Supabase for the people using them. My job is to make the Supabase developer experience readable, predictable, and trustworthy for humans and agents alike, and to measure whether it is.
+More and more, the developer on the other side is an AI agent: Claude Code, Codex, Cursor, and GitHub Copilot now build on Supabase for the people using them. My job is to make the Supabase developer experience readable, predictable, and trustworthy for coding agents and humans alike, and to measure whether it is.
 
 #### What I care about
 
@@ -24,17 +24,17 @@ Before Supabase I was a Principal Product Manager at Microsoft, leading develope
 
 #### Things I've shipped in the past
 
-- 🧠 **[Microsoft SQL Agent Skills](https://github.com/microsoft/microsoft-sql)**: installable agent plugins that teach GitHub Copilot, Claude Code, Codex, and Cursor how to build on Azure SQL.
+- 🧠 **[Microsoft SQL Agent Skills](https://github.com/microsoft/microsoft-sql)**: installable agent plugins, built on the open Agent Skills standard, that teach Claude Code, Codex, Cursor, and GitHub Copilot how to build on Azure SQL.
 - 🚀 **[Azure SQL Developer Hub](https://microsoft.github.io/azure-sql-dev-hub/)**: an AI-native front door with a free database and ready-to-run prompts that take you from idea to working app with any coding agent.
 - 🐳 **[Azure SQL Database container](https://microsoft.github.io/azure-sql-database-container/)**: the real Azure SQL Database engine on your laptop, led from vision to [Private Preview](https://devblogs.microsoft.com/azure-sql/azure-sql-database-container-prpr/), with [17 agent skills](https://microsoft.github.io/azure-sql-database-container/agent-skills.html) of its own.
 - 📦 **[Dev Container templates for Azure SQL](https://devblogs.microsoft.com/azure-sql/azure-sql-dev-containers/)**: ready-to-code environments for Python, Node.js, and more.
-- 🧩 **[MSSQL extension for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql)**: GitHub Copilot integration (Ask and Agent modes, Schema Designer, Data API builder) for 500K+ monthly developers.
+- 🧩 **[MSSQL extension for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql)**: grew GitHub Copilot usage 18x (Ask and Agent modes, Schema Designer, Data API builder) and the extension from 175K to 525K monthly users.
 
 #### Before product
 
-- ☁️ **AWS.** Database Specialist Solutions Architect (WWSO), selected for the AWS Delta team on AWS's highest-priority global engagements. Authored the Amazon RDS for SQL Server workshops, contributed to the RDS for PostgreSQL workshop, and spoke at AWS re:Invent and PASS Summit.
+- ☁️ **AWS.** Database Specialist Solutions Architect (WWSO) working with enterprise customers, selected for the AWS Delta team on AWS's highest-priority global engagements. Authored the Amazon RDS for SQL Server workshops, contributed to the RDS for PostgreSQL workshop, and spoke at AWS re:Invent and PASS Summit.
 - 🏗️ **Solutions architect at Slalom and Atos.** Cloud-native platforms on AWS and Azure for Fortune 500 clients.
-- 💻 **Software engineer.** Full-stack apps in Java, PHP, and JavaScript, where it all started in 2006.
+- 💻 **Software engineer.** Custom full-stack apps for small businesses in Guatemala, in Java, PHP, and JavaScript. Where it all started, in 2006.
 
 #### Certifications
 
@@ -42,7 +42,9 @@ AWS Certified Database – Specialty · AWS Certified Developer – Associate ·
 
 #### Stack
 
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+
+![Claude Agent SDK](https://img.shields.io/badge/Claude%20Agent%20SDK-191919?style=flat-square&logo=anthropic&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-191919?style=flat-square&logo=modelcontextprotocol&logoColor=white) ![Agent Skills](https://img.shields.io/badge/Agent%20Skills-D97757?style=flat-square&logo=anthropic&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square)
 
@@ -56,7 +58,9 @@ AWS Certified Database – Specialty · AWS Certified Developer – Associate ·
 
 #### Background
 
-Former Microsoft MVP · Redgate 100 (DevOps) · international speaker and author · from Guatemala, based in Denver
+Former Microsoft MVP · Redgate 100 (DevOps) · international speaker and author
+
+Building with Supabase or AI agents? I'd love to hear what's getting in your way.
 
 #### Elsewhere
 
